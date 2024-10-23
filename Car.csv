@@ -1,0 +1,9 @@
+Car Model,Make,Year,Horsepower,Weight (kg),Fuel Efficiency (mpg),Engine Size (L),Transmission Type
+Model A,Band X,2020,150,1500,30,2.0,Automatic
+Model B,Band Y,2019,200,1700,25,2.5,Manual
+Model C,Band Z,2021,250,1600,28,3.0,Automatic
+Model D,Band X,2018,180,1400,32,2.2,Manual
+Model E,Band Y,2022,220,1800,22,3.5,Automatic
+Model F,Band Z,2017,175,1550,29,2.4,Manual
+Model G,Band X,2023,300,1900,21,4.0,Automatic
+Model H,Band Y,2016,160,1450,33,2.1,Manual
