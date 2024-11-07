@@ -1,0 +1,21 @@
+product_id,product_name,sales_amount,units_sold,region,sales_date,customer_rating
+1,Laptop,1500,20,North America,2023-01-15,4.5
+2,Smartphone,800,50,Europe,2023-01-20,4.0
+3,Headphones,150,120,Asia,2023-02-05,3.8
+4,Tablet,450,30,North America,2023-03-10,4.7
+5,Smartwatch,200,90,Europe,2023-03-25,4.2
+6,Wireless Mouse,30,200,North America,2023-04-01,4.3
+7,Wireless Keyboard,80,150,Asia,2023-04-15,4.1
+8,Monitor,350,60,Europe,2023-05-02,4.4
+9,Printer,120,80,North America,2023-05-10,4.0
+10,Webcam,90,110,Asia,2023-06-01,4.6
+11,Laptop,1600,25,Europe,2023-06-15,4.3
+12,Smartphone,850,55,North America,2023-07-05,4.4
+13,Headphones,180,100,Europe,2023-07-18,4.1
+14,Tablet,480,35,Asia,2023-08-02,4.6
+15,Smartwatch,220,95,North America,2023-08-20,4.2
+16,Wireless Mouse,35,210,Europe,2023-09-01,4.5
+17,Wireless Keyboard,90,160,Asia,2023-09-10,4.4
+18,Monitor,400,70,North America,2023-09-25,4.7
+19,Printer,110,95,Europe,2023-10-15,4.3
+20,Webcam,85,120,Asia,2023-10-20,4.6
